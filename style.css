@@ -96,3 +96,7 @@ figure.img {
     transition: .5s ease;
     backface-visibility: hidden;
   }
+
+  h4 {
+      color:#495464
+  }
