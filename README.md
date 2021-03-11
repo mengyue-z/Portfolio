@@ -9,6 +9,6 @@ Contact Page has a simple contact form for people to contact me.
 
 # Links
 
-* The URLs of the deployed website: https://mengyue-z.github.io/week2-homework
+* The URLs of the deployed website: https://mengyue-z.github.io/Portfolio
 
-* The URLs of the GitHub repositories: https://github.com/mengyue-z/week2-homework
+* The URLs of the GitHub repositories: https://github.com/mengyue-z/Portfolio
